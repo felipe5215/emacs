@@ -1,0 +1,85 @@
+ls
+ls
+ls
+( + 1 2)
+cat sicp.el 
+ls
+ls
+ls
+setq a 2
+a
+setq
+setq aa 2
+aa
+(print aa)
+(print a)
+ls
+cat test.el 
+(setq b 9)
+(print b)
+(setq content (cat test.el))
+setq content cat test.el
+cat test.el 
+cat test.el | setq content 
+(print content)
+(print content)
+(print content)
+(print content)
+cat test.el 
+(cat test.el) 
+ls
+cat test.el | grep greet
+$lala 2
+setq lala | cat test.el | grep greet
+la
+lala
+echo "oi"
+(defun oi() echo "oi")
+oi
+(oi)
+(defun oi() print "oi")
+(oi)
+(oi)
+oi
+(count 3)
+(count 3) >> test.md
+ls
+cat test.
+cat test.md 
+cat test.md 
+echo "oi" > test.md 
+cat test.md 
+(+ 1 2)
+(hi "felipe")
+hi felipe
+hi felipe >> hi.txt
+ls
+cat hi.txt 
+buffer-list
+messagwe
+message
+ls
+ls
+sd ls
+ls
+mv face.el keyb.el menu.el cleanbuffer.el completion.el  configs/
+ls
+ls configs/
+ls
+yarn init
+ls
+ls -la
+git status
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+touch index.ts
+ls
